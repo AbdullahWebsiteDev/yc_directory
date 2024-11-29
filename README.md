@@ -1,4 +1,5 @@
 https://wakatime.com/badge/github/AbdullahWebsiteDev/yc_directory.svg
+[![wakatime](https://wakatime.com/badge/github/AbdullahWebsiteDev/yc_directory.svg)](https://wakatime.com/badge/github/AbdullahWebsiteDev/yc_directory)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
